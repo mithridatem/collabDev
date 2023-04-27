@@ -3,11 +3,11 @@ h1 {
 }
 
 body {
-    font: "Segoe UI";
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     font-size: 14px ;
 }
 
 p {
-    font: "Times New Roman";
+    font-family: 'Times New Roman', Times, serif;
     font-size: 13px;
 }
