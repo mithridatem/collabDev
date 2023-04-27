@@ -1,12 +1,13 @@
-h1{
+h1 {
+
     color: orange;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 14px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
+p {
 
-p{
-    font-family: 'Times New Roman', Times, serif;
     font-size: 11px;
+    font-family: 'Times New Roman', Times, serif;
 }
